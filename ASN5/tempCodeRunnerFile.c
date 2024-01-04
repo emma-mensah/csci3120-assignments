@@ -1,0 +1,1 @@
+printf("Consumed: %d\n", consumed);
